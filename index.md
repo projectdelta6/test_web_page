@@ -1,6 +1,6 @@
 ## Test CCT Links
 
-[Click to launch app redirect](abcdefg://testapp/open)
+[Click to launch app redirect](ShopSt://testapp/open)
 
 
 
