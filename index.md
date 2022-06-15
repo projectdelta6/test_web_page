@@ -1,6 +1,6 @@
 ## Test CCT Links
 
-[Click to launch app redirect](https://testapp/open)
+[Click to launch app redirect](com.duck.customtabstest://testapp/open)
 
 
 
